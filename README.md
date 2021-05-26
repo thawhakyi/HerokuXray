@@ -1,4 +1,4 @@
-# Use Heroku to deploy Xray high-performance proxy services, via ws (vmess, vless, trojan shadowsocks, socks) and other protocols
+# Use Heroku to deploy Xray high-performance proxy services, (WebSocket tls, vmess, vless, trojan, shadowsocks and socks etc..)
 > Reminder: Misuse may cause the account to be BAN! ! !
 
 ## Overview
