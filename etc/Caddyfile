@@ -18,7 +18,7 @@ header Connection *Upgrade*
 header Upgrade    websocket
 path /$AUUID-vmess
 }
-reverse_proxy @websocket_xray_vmess unix//etc/caddy/vless
+reverse_proxy @websocket_xray_vmess unix//etc/caddy/vmess
 
 
 @websocket_xray_vless {
