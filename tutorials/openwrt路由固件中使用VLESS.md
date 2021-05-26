@@ -1,23 +1,23 @@
-## OpenWrt路由固件，使用插件ShadowSocksR Plus+
+## OpenWrt Routing，used ShadowsocksR Plus+
 
-本项目部署后，可以使用VLESS协议。
+After the project is deployed, VLESS protocol can be used。
 
-端口可以使用80或443，设置方式稍有不同。
+80 or 443 Ports can used，settings are slightly different。
 
-具体设置请看图片示例。
-
-***
-
-在openwrt中配置:
+Check example images for detailed configurations。
 
 ***
 
-使用443端口,  图示如下：
-![443端口图示](/tutorial/img/openwrt-VLESS-443.png)
+openwrt configuration:
 
 ***
 
-使用80端口,  图示如下：
-![80端口图示](/tutorial/img/openwrt-VLESS-80.png)
+If used 443：
+![443端口图示](/tutorials/images/openwrt-VLESS-443.png)
+
+***
+
+for port 80,  as shown below：
+![80端口图示](/tutorials/images/openwrt-VLESS-80.png)
 
 ***
