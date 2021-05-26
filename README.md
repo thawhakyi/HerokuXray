@@ -124,7 +124,7 @@ addEventListener(
 * [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)
 *  [better-cloudflare-ip](https://github.com/badafans/better-cloudflare-ip)
 
-### Special thanks to: ：
+### Special thanks to:
 
 * [mixool](https://github.com/mixool/)
 * [bclswl0827](https://github.com/bclswl0827/v2ray-heroku)
