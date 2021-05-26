@@ -1,3 +1,3 @@
-Pr: 欢迎在此目录下提供更多详细的各种相关使用教程，教程图片请放于img目录
+Welcome to provide more detailed various tutorials in this directory, please add the tutorial images in the `Images` directory
 
-注意： 教程中各密码改为UUID，各路径已经更改为UUID-NAME的格式  
+Note: In this tutorials, each passwords are changed to UUID, and each path has been changed to the format of UUID-NAME
