@@ -35,7 +35,7 @@ For security reasons, unless you use a CDN, please don't use a custom domain nam
 
 ```bash
 * Client download：https://github.com/2dust/v2rayN/releases
-* Proxy protocol：vless 或 vmess
+* Proxy protocol：vless or vmess
 * Address：xxx.herokuapp.com
 * Port：443
 * Default UUID：24b4b1e1-7a89-45f6-858c-242cf53b5bdb
@@ -82,7 +82,7 @@ For security reasons, unless you use a CDN, please don't use a custom domain nam
 * Port: 443
 * Password：24b4b1e1-7a89-45f6-858c-242cf53b5bdb
 * Encryption：chacha20-ietf-poly1305
-* Plug-in：xray-plugin_windows_amd64.exe  //需将插件https://github.com/shadowsocks/xray-plugin/releases下载解压后放至shadowsocks同目录
+* Plug-in：xray-plugin_windows_amd64.exe  //You need to download and unzip the plugin - https://github.com/shadowsocks/xray-plugin/releases and place it in the same directory
 * Plugin options: tls; host= xxx.herokuapp.com; path= /24b4b1e1-7a89-45f6-858c-242cf53b5bdb-ss // (/custom UUID-ss)
 ```
 </details>
@@ -118,8 +118,6 @@ addEventListener(
 
 * [CloudflareST](https://github.com/Lbingyi/CloudflareST) `OpenWrt recommand -faster`
 * [cf-autoupdate](https://github.com/Lbingyi/cf-autoupdate) `OpenWrt recommand`
-
-> [More Tutorials](/tutorial)
 
 ## About Cloudflare SpeedTest
 
