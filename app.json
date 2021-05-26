@@ -13,7 +13,7 @@
         },
         "CADDYIndexPage": {
             "description": "CADDYIndexPage",
-            "value": "https://github.com/AYJCSGM/mikutap/archive/master.zip"
+            "value": "https://raw.githubusercontent.com/thawhakyi/HerokuXray/main/mikutap.zip"
         },
         "CONFIGCADDY": {
             "description": "Please do not modify it if you are not familiar with the CADDY configuration",
